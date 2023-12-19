@@ -1,28 +1,40 @@
 # co2Sensor
 howto install use the co2 sensor
 
+
 hardware
+
 board:
-mskezurich with circuitpython
+makezurich with circuitpython
+
 
 software
 circuitpython
 
+
 raspberry pico is with usb connected
 
+
 with 
+
 pyserial-miniterm 
 
 shows all connected device 
+
+
 choose the ttyACME 
 
 it begins to run
 
 program
 
+
 import time
+
 import board
+
 import adafruit_scd4x
+
 import busio
 
 #i2c = board.I2C()
