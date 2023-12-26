@@ -1,4 +1,4 @@
-# co2Sensor
+# co2Sensor on lora
 howto install use the co2 sensor
 
 
